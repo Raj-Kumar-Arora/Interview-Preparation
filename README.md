@@ -24,7 +24,8 @@
 
 [DevOps - Docker, k8s](#devOps---docker-k8s) 
 
-**GitHub HELP on Anchors/Markdown :- **
+
+*GitHub HELP on Anchors/Markdown :- *
 * https://stackoverflow.com/questions/76402528/github-how-to-add-links-to-sections-of-readme-md
 * https://gist.github.com/rachelhyman/b1f109155c9dafffe618#file-gistfile1-md
 * https://github.com/fefong/markdown_readme?tab=readme-ov-file#getting-started-with-markdown
