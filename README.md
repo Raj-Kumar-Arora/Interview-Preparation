@@ -2,7 +2,7 @@
 
 [C#.NET](#C#.NET)
 
-[Collections & Generics](#Collections-&-Generics)
+[Collections & Generics](#Collections---Generics)
 
 [LINQ](#LINQ)
 
@@ -24,7 +24,7 @@
 
 -------------------------------------------------------------------------------------
 ## C#.NET
-## Collections & Generics
+## Collections - Generics
 ## LINQ
 ## SQL & DB
 ## EF
