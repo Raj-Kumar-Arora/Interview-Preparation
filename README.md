@@ -41,9 +41,9 @@
 ### Practice - LeetCode-Top_50_SQL
 Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 
-|#|Column 2|Column 3|
+|#| KEYWORD | DETAILS |
 |---|---|---|
-|1| IS NULL | ![image](https://github.com/user-attachments/assets/1facfcb7-7ca5-497e-9e90-b5163429e86b) ![image](https://github.com/user-attachments/assets/8ef24014-c5f8-4f50-a59f-dc99125ffcc9)  ![image](https://github.com/user-attachments/assets/822554e2-1b7b-40ed-9588-61efb5600bb1) |
+|1| IS NULL | ![image](https://github.com/user-attachments/assets/1facfcb7-7ca5-497e-9e90-b5163429e86b) ![image](https://github.com/user-attachments/assets/8ef24014-c5f8-4f50-a59f-dc99125ffcc9)  ![image](https://github.com/user-attachments/assets/822554e2-1b7b-40ed-9588-61efb5600bb1)   ![image](https://github.com/user-attachments/assets/3ea99ce5-7725-44ed-89ec-867e6ee181e3) |
 |2| LEN () | ![image](https://github.com/user-attachments/assets/96fc2ab3-c7fb-4609-abf5-dd8111fe7432)|
 |3| CAST | ![image](https://github.com/user-attachments/assets/b3f20b1a-abcc-44f3-9aa0-0e085aabeaed) ![image](https://github.com/user-attachments/assets/cdaeec36-cc81-43ae-96f6-40d002c01fc4) |
 |4| FORMAT |![image](https://github.com/user-attachments/assets/a247bc43-6e90-42a6-818f-bd602ab1867d) |
