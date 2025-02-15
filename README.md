@@ -20,7 +20,7 @@
 
 [MicroServices](#MicroServices)
 
-[DevOps - Docker, k8s](#devOps---docker,-k8s) 
+[DevOps - Docker, k8s](#devOps,-docker,-k8s) 
 
 -------------------------------------------------------------------------------------
 ## C#.NET
@@ -33,4 +33,4 @@
 ## LLD
 ## HLD / System Design
 ## MicroServices
-## DevOps - Docker, k8s
+## DevOps, Docker, k8s
