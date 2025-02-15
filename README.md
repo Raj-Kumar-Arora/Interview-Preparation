@@ -67,7 +67,9 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |18| JOINS - All Types | https://builtin.com/articles/sql-merge-two-tables | 
 |19| CTE | Common Table Expresssions https://www.geeksforgeeks.org/cte-in-sql/ | 
 |20| WINDOWS FUNCTIONS | https://www.geeksforgeeks.org/window-functions-in-sql/ |
-|21| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
+|21| Declaring Variables | ![image](https://github.com/user-attachments/assets/f5f7648a-b37e-4778-b67a-f779afe880a4) | 
+|22| PERCENTAGE | ![image](https://github.com/user-attachments/assets/f5f7648a-b37e-4778-b67a-f779afe880a4) | 
+|23| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
 
 
 -------------------------------------------------------------------------------------
