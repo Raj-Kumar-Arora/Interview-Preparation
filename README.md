@@ -65,6 +65,7 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 | |  | ** **TODO * Add example code of sql from https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL** ** | 
 |17| GROUP BY | Mostly all coln's that are put in GROUP BY are also included in SELECT coln's ![image](https://github.com/user-attachments/assets/d656ec87-94e2-4272-9144-fc130a7e8957) |
 |18| JOINS - All Types | https://builtin.com/articles/sql-merge-two-tables | 
+|  | CROSS JOIN | ![image](https://github.com/user-attachments/assets/79f67d72-7b80-4637-b66c-620beed511bd) |
 |19| CTE | Common Table Expresssions https://www.geeksforgeeks.org/cte-in-sql/ | 
 |20| WINDOWS FUNCTIONS | https://www.geeksforgeeks.org/window-functions-in-sql/ |
 |21| Declaring Variables | ![image](https://github.com/user-attachments/assets/f5f7648a-b37e-4778-b67a-f779afe880a4) | 
