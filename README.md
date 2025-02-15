@@ -1,18 +1,30 @@
 # Interview-Preparation
 
 [C#.NET](#C#.NET)
-[Collections & Generics] (#Collections & Generics)
-[LINQ] (#LINQ)
+
+[Collections & Generics](#Collections & Generics)
+
+[LINQ](#LINQ)
+
 [SQL & DB] (#SQL/DB)
-[EF] (#EF)
+
+[EF](#EF)
+
 [Angular](#Angular)
+
 [SOLID Principles](#SOLID Principles)
+
 [LLD](#LLD)
+
 [HLD/System Design](#HLD/System Design)
+
 [MicroServices](#MicroServices)
+
 [DevOps - Docker, k8s](#DevOps - Docker, k8s) 
 
+
 ##C#.NET
+
 ##Collections & Generics
 ##LINQ
 ##SQL/DB
