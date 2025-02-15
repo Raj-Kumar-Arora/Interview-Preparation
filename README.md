@@ -16,11 +16,11 @@
 
 [LLD](#LLD)
 
-[HLD/System Design](#HLD/SystemDesign)
+[HLD/System Design](#hld-/-system-design)
 
 [MicroServices](#MicroServices)
 
-[DevOps - Docker, k8s](#DevOps-[Docker,-k8s]) 
+[DevOps - Docker, k8s](#devOps-[docker,-k8s]) 
 
 -------------------------------------------------------------------------------------
 ## C#.NET
