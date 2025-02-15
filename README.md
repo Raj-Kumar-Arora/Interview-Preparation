@@ -1,4 +1,4 @@
-# Interview-Preparation
+# Interview Preparation
 
 [C#.NET](#C#.NET)
 
