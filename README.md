@@ -2,7 +2,7 @@
 
 [C#.NET](#C#.NET)
 
-[Collections & Generics](#Collections & Generics)
+[Collections & Generics](#Collections&Generics)
 
 [LINQ](#LINQ)
 
@@ -12,15 +12,15 @@
 
 [Angular](#Angular)
 
-[SOLID Principles](#SOLID Principles)
+[SOLID Principles](#SOLIDPrinciples)
 
 [LLD](#LLD)
 
-[HLD/System Design](#HLD/System Design)
+[HLD/System Design](#HLD/SystemDesign)
 
 [MicroServices](#MicroServices)
 
-[DevOps-Docker,k8s](#DevOps - Docker, k8s) 
+[DevOps - Docker, k8s](#DevOps-Docker,k8s) 
 
 -------------------------------------------------------------------------------------
 ## C#.NET
