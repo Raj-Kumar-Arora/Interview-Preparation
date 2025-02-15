@@ -6,7 +6,7 @@
 
 [LINQ](#LINQ)
 
-[SQL & DB] (#SQL/DB)
+[SQL & DB](#SQL/DB)
 
 [EF](#EF)
 
@@ -33,4 +33,4 @@
 ## LLD
 ## HLD / System Design
 ## MicroServices
-## DevOps - Docker, k8s
+## DevOps-Docker,k8s
