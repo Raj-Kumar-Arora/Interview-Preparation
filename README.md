@@ -12,6 +12,8 @@
 
 [Angular](#Angular)
 
+[Azure](#Azure)
+
 [SOLID Principles](#SOLID-Principles)
 
 [LLD](#LLD)
@@ -29,6 +31,7 @@
 ## SQL - DB
 ## EF
 ## Angular
+## Azure
 ## SOLID Principles
 ## LLD
 ## HLD - System Design
