@@ -51,7 +51,7 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 | |  | https://www.sqlshack.com/string_agg-function-in-sql/ ![image](https://github.com/user-attachments/assets/e4f0f700-77b6-4d18-a814-441aee07dd45) |
 |6| UPPER, LOWER, LEFT, RIGHT | String manipulation ![image](https://github.com/user-attachments/assets/4d12c398-8b07-4cd7-8774-6d4d6c721a05)|
 |7| BETWEEN | Can be used with dates as well|
-|8| DateAdd () | ![image](https://github.com/user-attachments/assets/bdbf4f70-9cbd-40b7-b712-10584a9ddc2f) ![image](https://github.com/user-attachments/assets/61b48ca4-af21-4da9-a910-1d1cddbeb208) |
+|8| DateAdd () | ![image](https://github.com/user-attachments/assets/bdbf4f70-9cbd-40b7-b712-10584a9ddc2f) ![image](https://github.com/user-attachments/assets/61b48ca4-af21-4da9-a910-1d1cddbeb208)   ![image](https://github.com/user-attachments/assets/23561275-ea49-4151-be17-dd68b6c7c2e9) |
 |9| DatePart () |![image](https://github.com/user-attachments/assets/1a924817-f822-48de-a8da-65461d8119e5)|
 |10| Count, AVG, Sum () | ![image](https://github.com/user-attachments/assets/b99c3185-c720-4558-b4ba-4e5e44559689) ![image](https://github.com/user-attachments/assets/1f218942-f692-4a6a-9d93-10c3600c4294) |
 |11| Min/Max () | ![image](https://github.com/user-attachments/assets/d3d0dcd8-891e-4ccd-83a8-d4cefc4dd921) ![image](https://github.com/user-attachments/assets/44d0da05-4db4-478a-96c0-1a8f81544b4b)    |
