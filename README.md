@@ -62,7 +62,7 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |14| Having | ![image](https://github.com/user-attachments/assets/d4c5e547-f602-400b-8f31-19d9b5265826)  |
 |15| Round ()| ![image](https://github.com/user-attachments/assets/28077a20-45f5-412a-b994-d7f6f8345128) |
 |16| LEAD/LAG () | https://www.geeksforgeeks.org/mysql-lead-and-lag-function/  |
-| |  | ** **TODO * Add example code of sql from https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL** ** | 
+| |  | ![image](https://github.com/user-attachments/assets/8feb896d-0202-4f4d-948d-7a20c15972c5)  | 
 |17| GROUP BY | Mostly all coln's that are put in GROUP BY are also included in SELECT coln's ![image](https://github.com/user-attachments/assets/d656ec87-94e2-4272-9144-fc130a7e8957) |
 |18| JOINS - All Types | https://builtin.com/articles/sql-merge-two-tables | 
 |  | CROSS JOIN | ![image](https://github.com/user-attachments/assets/79f67d72-7b80-4637-b66c-620beed511bd) |
