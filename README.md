@@ -43,21 +43,24 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 
 |#|Column 2|Column 3|
 |---|---|---|
-|1|IS NULL | ![image](https://github.com/user-attachments/assets/1facfcb7-7ca5-497e-9e90-b5163429e86b)|
-|2|LEN () | ![image](https://github.com/user-attachments/assets/96fc2ab3-c7fb-4609-abf5-dd8111fe7432)|
-|3|CAST | ![image](https://github.com/user-attachments/assets/b3f20b1a-abcc-44f3-9aa0-0e085aabeaed) ![image](https://github.com/user-attachments/assets/cdaeec36-cc81-43ae-96f6-40d002c01fc4) |
-|4|FORMAT |![image](https://github.com/user-attachments/assets/a247bc43-6e90-42a6-818f-bd602ab1867d) |
-|5|STRING_AGG ()| |
-|6|UPPER, LOWER, LEFT, RIGHT | String manipulation ![image](https://github.com/user-attachments/assets/4d12c398-8b07-4cd7-8774-6d4d6c721a05)|
-|7|BETWEEN | Can be used with dates as well|
-|8|DateAdd () | ![image](https://github.com/user-attachments/assets/bdbf4f70-9cbd-40b7-b712-10584a9ddc2f) ![image](https://github.com/user-attachments/assets/61b48ca4-af21-4da9-a910-1d1cddbeb208) |
-|9|DatePart () |![image](https://github.com/user-attachments/assets/1a924817-f822-48de-a8da-65461d8119e5)|
-|10|Count, AVG, Sum () | ![image](https://github.com/user-attachments/assets/b99c3185-c720-4558-b4ba-4e5e44559689) ![image](https://github.com/user-attachments/assets/1f218942-f692-4a6a-9d93-10c3600c4294) |
+|1| IS NULL | ![image](https://github.com/user-attachments/assets/1facfcb7-7ca5-497e-9e90-b5163429e86b) ![image](https://github.com/user-attachments/assets/8ef24014-c5f8-4f50-a59f-dc99125ffcc9)  |
+|2| LEN () | ![image](https://github.com/user-attachments/assets/96fc2ab3-c7fb-4609-abf5-dd8111fe7432)|
+|3| CAST | ![image](https://github.com/user-attachments/assets/b3f20b1a-abcc-44f3-9aa0-0e085aabeaed) ![image](https://github.com/user-attachments/assets/cdaeec36-cc81-43ae-96f6-40d002c01fc4) |
+|4| FORMAT |![image](https://github.com/user-attachments/assets/a247bc43-6e90-42a6-818f-bd602ab1867d) |
+|5| STRING_AGG ()| ![image](https://github.com/user-attachments/assets/e4f0f700-77b6-4d18-a814-441aee07dd45) |
+|6| UPPER, LOWER, LEFT, RIGHT | String manipulation ![image](https://github.com/user-attachments/assets/4d12c398-8b07-4cd7-8774-6d4d6c721a05)|
+|7| BETWEEN | Can be used with dates as well|
+|8| DateAdd () | ![image](https://github.com/user-attachments/assets/bdbf4f70-9cbd-40b7-b712-10584a9ddc2f) ![image](https://github.com/user-attachments/assets/61b48ca4-af21-4da9-a910-1d1cddbeb208) |
+|9| DatePart () |![image](https://github.com/user-attachments/assets/1a924817-f822-48de-a8da-65461d8119e5)|
+|10| Count, AVG, Sum () | ![image](https://github.com/user-attachments/assets/b99c3185-c720-4558-b4ba-4e5e44559689) ![image](https://github.com/user-attachments/assets/1f218942-f692-4a6a-9d93-10c3600c4294) |
 |11| Min/Max () | ![image](https://github.com/user-attachments/assets/d3d0dcd8-891e-4ccd-83a8-d4cefc4dd921) ![image](https://github.com/user-attachments/assets/44d0da05-4db4-478a-96c0-1a8f81544b4b)    |
 |12| CASE WHEN |If-Else like in sql ![image](https://github.com/user-attachments/assets/b15e412c-a0be-4bd1-b117-ea2bfad84a1f)|
 |13| Union/UnionAll | ![image](https://github.com/user-attachments/assets/c82809f5-9946-4764-9047-05581328917c) |
 |14| Having | ![image](https://github.com/user-attachments/assets/d4c5e547-f602-400b-8f31-19d9b5265826)  |
 |15| Round ()| ![image](https://github.com/user-attachments/assets/28077a20-45f5-412a-b994-d7f6f8345128) |
+|16| LEAD/LAG () | https://www.geeksforgeeks.org/mysql-lead-and-lag-function/ |
+|17| GROUP BY | Mostly all coln's that are put in GROUP BY are also included in SELECT coln's ![image](https://github.com/user-attachments/assets/d656ec87-94e2-4272-9144-fc130a7e8957) |
+|18| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
 
 -------------------------------------------------------------------------------------
 ## EF
