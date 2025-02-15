@@ -59,9 +59,14 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |13| Union/UnionAll | ![image](https://github.com/user-attachments/assets/c82809f5-9946-4764-9047-05581328917c) |
 |14| Having | ![image](https://github.com/user-attachments/assets/d4c5e547-f602-400b-8f31-19d9b5265826)  |
 |15| Round ()| ![image](https://github.com/user-attachments/assets/28077a20-45f5-412a-b994-d7f6f8345128) |
-|16| LEAD/LAG () | https://www.geeksforgeeks.org/mysql-lead-and-lag-function/ |
+|16| LEAD/LAG () | https://www.geeksforgeeks.org/mysql-lead-and-lag-function/  |
+| |  | ** **TODO * Add example code of sql from https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL** ** | 
 |17| GROUP BY | Mostly all coln's that are put in GROUP BY are also included in SELECT coln's ![image](https://github.com/user-attachments/assets/d656ec87-94e2-4272-9144-fc130a7e8957) |
-|18| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
+|18| JOINS - All Types | https://builtin.com/articles/sql-merge-two-tables | 
+|19| CTE | Common Table Expresssions https://www.geeksforgeeks.org/cte-in-sql/ | 
+|20| WINDOWS FUNCTIONS | https://www.geeksforgeeks.org/window-functions-in-sql/ |
+|21| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
+
 
 -------------------------------------------------------------------------------------
 ## EF
