@@ -6,7 +6,7 @@
 
 [LINQ](#LINQ)
 
-[SQL & DB](#SQL-+-DB)
+[SQL & DB](#SQL---DB)
 
 [EF](#EF)
 
@@ -16,7 +16,7 @@
 
 [LLD](#LLD)
 
-[HLD/System Design](#hld-|-system-design)
+[HLD/System Design](#hld---system-design)
 
 [MicroServices](#MicroServices)
 
@@ -26,11 +26,11 @@
 ## C#.NET
 ## Collections - Generics
 ## LINQ
-## SQL + DB
+## SQL - DB
 ## EF
 ## Angular
 ## SOLID Principles
 ## LLD
-## HLD | System Design
+## HLD - System Design
 ## MicroServices
 ## DevOps - Docker k8s
