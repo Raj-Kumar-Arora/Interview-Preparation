@@ -47,7 +47,8 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |2| LEN () | ![image](https://github.com/user-attachments/assets/96fc2ab3-c7fb-4609-abf5-dd8111fe7432)|
 |3| CAST | ![image](https://github.com/user-attachments/assets/b3f20b1a-abcc-44f3-9aa0-0e085aabeaed) ![image](https://github.com/user-attachments/assets/cdaeec36-cc81-43ae-96f6-40d002c01fc4) |
 |4| FORMAT |![image](https://github.com/user-attachments/assets/a247bc43-6e90-42a6-818f-bd602ab1867d) |
-|5| STRING_AGG ()| To convert row/record values in a single string value  ![image](https://github.com/user-attachments/assets/964d5392-640b-4ced-96f0-3cf8877cc8ab)  https://www.sqlshack.com/string_agg-function-in-sql/ ![image](https://github.com/user-attachments/assets/e4f0f700-77b6-4d18-a814-441aee07dd45) |
+|5| STRING_AGG ()| To convert row/record values in a single string value  ![image](https://github.com/user-attachments/assets/964d5392-640b-4ced-96f0-3cf8877cc8ab)  
+https://www.sqlshack.com/string_agg-function-in-sql/ ![image](https://github.com/user-attachments/assets/e4f0f700-77b6-4d18-a814-441aee07dd45) |
 |6| UPPER, LOWER, LEFT, RIGHT | String manipulation ![image](https://github.com/user-attachments/assets/4d12c398-8b07-4cd7-8774-6d4d6c721a05)|
 |7| BETWEEN | Can be used with dates as well|
 |8| DateAdd () | ![image](https://github.com/user-attachments/assets/bdbf4f70-9cbd-40b7-b712-10584a9ddc2f) ![image](https://github.com/user-attachments/assets/61b48ca4-af21-4da9-a910-1d1cddbeb208) |
