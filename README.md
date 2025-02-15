@@ -2,17 +2,17 @@
 
 [C#.NET](#C#.NET)
 
-[Collections & Generics](#Collections&Generics)
+[Collections & Generics](#Collections-&-Generics)
 
 [LINQ](#LINQ)
 
-[SQL & DB](#SQL/DB)
+[SQL & DB](#SQL-&-DB)
 
 [EF](#EF)
 
 [Angular](#Angular)
 
-[SOLID Principles](#SOLIDPrinciples)
+[SOLID Principles](#SOLID-Principles)
 
 [LLD](#LLD)
 
@@ -26,7 +26,7 @@
 ## C#.NET
 ## Collections & Generics
 ## LINQ
-## SQL/DB
+## SQL & DB
 ## EF
 ## Angular
 ## SOLID Principles
