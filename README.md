@@ -74,7 +74,8 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |22| PERCENTAGE | ![image](https://github.com/user-attachments/assets/f5f7648a-b37e-4778-b67a-f779afe880a4) | 
 |23| ALTERNATIVE TO LIMIT/OFFSET | https://www.geeksforgeeks.org/sql-limit-clause/ |
 |  | | ![image](https://github.com/user-attachments/assets/27a67098-1c16-4d11-966d-8c7c90635475) |
-|24| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
+|24| Select the First Row of Each GROUP BY | https://www.geeksforgeeks.org/how-to-select-the-first-row-of-each-group-by-in-sql/ |
+|25| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
 
 
 -------------------------------------------------------------------------------------
