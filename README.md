@@ -50,7 +50,8 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |5| STRING_AGG ()| To convert row/record values in a single string value  ![image](https://github.com/user-attachments/assets/964d5392-640b-4ced-96f0-3cf8877cc8ab)  
 | |  | https://www.sqlshack.com/string_agg-function-in-sql/ ![image](https://github.com/user-attachments/assets/e4f0f700-77b6-4d18-a814-441aee07dd45) |
 |6| UPPER, LOWER, LEFT, RIGHT | String manipulation ![image](https://github.com/user-attachments/assets/4d12c398-8b07-4cd7-8774-6d4d6c721a05)|
-|7| BETWEEN | Can be used with dates as well|
+|7| BETWEEN | Can be used with dates as well |
+| | | ![image](https://github.com/user-attachments/assets/7dbb0db9-7b84-4e0b-a10d-d7430c3e5229) |
 |8| DateAdd () | ![image](https://github.com/user-attachments/assets/bdbf4f70-9cbd-40b7-b712-10584a9ddc2f)  |
 | | | ![image](https://github.com/user-attachments/assets/61b48ca4-af21-4da9-a910-1d1cddbeb208) |
 | | |   ![image](https://github.com/user-attachments/assets/23561275-ea49-4151-be17-dd68b6c7c2e9) |
