@@ -70,8 +70,8 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 |20| WINDOWS FUNCTIONS | https://www.geeksforgeeks.org/window-functions-in-sql/ |
 |21| Declaring Variables | ![image](https://github.com/user-attachments/assets/f5f7648a-b37e-4778-b67a-f779afe880a4) | 
 |22| PERCENTAGE | ![image](https://github.com/user-attachments/assets/f5f7648a-b37e-4778-b67a-f779afe880a4) | 
-|23| ALTERNATIVE TO LIMIT/OFFSET | https://www.geeksforgeeks.org/sql-limit-clause/ 
- ![image](https://github.com/user-attachments/assets/27a67098-1c16-4d11-966d-8c7c90635475) |
+|23| ALTERNATIVE TO LIMIT/OFFSET | https://www.geeksforgeeks.org/sql-limit-clause/ |
+|  | | ![image](https://github.com/user-attachments/assets/27a67098-1c16-4d11-966d-8c7c90635475) |
 |24| TIP | To convert an int value to float, no need to use CAST()/FORMAT(); just multiple/add that no by 1.0 |
 
 
