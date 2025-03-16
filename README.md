@@ -16,7 +16,7 @@
 
 [Azure](#Azure)
 
-[SOLID Principles](#SOLID-Principles)
+[SOLID, Clean Code & Refactoring](#SOLID-Principles)
 
 [LLD](#LLD)
 
