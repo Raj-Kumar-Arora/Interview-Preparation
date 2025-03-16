@@ -10,6 +10,8 @@
 
 [EF](#EF)
 
+[ASP.NET CORE](#ASP#.NET CORE)
+
 [Angular](#Angular)
 
 [Azure](#Azure)
@@ -80,6 +82,7 @@ Reference:- https://github.com/Raj-Kumar-Arora/SQL-LeetCode-Top_50_SQL
 
 -------------------------------------------------------------------------------------
 ## EF
+## ASP#.NET CORE
 ## Angular
 ## Azure
 ## SOLID Principles
