@@ -32,6 +32,7 @@
 * https://gist.github.com/rachelhyman/b1f109155c9dafffe618#file-gistfile1-md
 * https://github.com/fefong/markdown_readme?tab=readme-ov-file#getting-started-with-markdown
 * https://stackoverflow.com/questions/27981247/github-markdown-same-page-link/45508928#45508928
+* for txt colors  https://github.com/orgs/community/discussions/31570
       
 -------------------------------------------------------------------------------------
 ## C#.NET
