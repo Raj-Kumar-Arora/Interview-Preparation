@@ -10,6 +10,8 @@
 
 [EF](#EF)
 
+[TPL](#TPL)
+
 [ASP.NET CORE](#ASP.NET-CORE)
 
 [Angular](#Angular)
