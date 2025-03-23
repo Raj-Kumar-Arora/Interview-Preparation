@@ -4,8 +4,6 @@
 
 [Collections & Generics](#Collections---Generics)
 
-[LINQ](../"03. LINQ.md")
-
 [LINQ](#LINQ)
 
 [SQL & DB](#SQL---DB)
