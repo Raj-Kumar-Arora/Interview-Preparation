@@ -35,6 +35,7 @@
 * https://github.com/fefong/markdown_readme?tab=readme-ov-file#getting-started-with-markdown
 * https://stackoverflow.com/questions/27981247/github-markdown-same-page-link/45508928#45508928
 * for txt colors  https://github.com/orgs/community/discussions/31570
+* https://retype.com/components/code-block/
       
 -------------------------------------------------------------------------------------
 ## C#.NET
