@@ -7,34 +7,43 @@
 | 1 |   |
 | 2 | 
 ---------------------------------------------
-### 
+### 1. Testing Pyramid 
+
+*  A concept used to guide the implementation of automated tests in software development. 
+*  Focus on creating a balanced suite of tests that are efficient, cost-effective, and provide maximum coverage.
+
+   
+*  It visually represents testing layers as a pyramid, where the base (Unit Tests) has the most tests, and the top (Manual or UI Tests) has fewer tests.
 
 ---------------------------------------------
-### 
+### 2. Diff types of Testing
 
 ---------------------------------------------
-### 
+### 3. Unit Testing 
+
+1. Arrange/Setup dependencies/Mocks
+2. ACT =>   SUT. => Action  on SUBJECT UNDER TEST
+3. TEST
 
 ---------------------------------------------
-### 
+### 4. Frameworkds Used - xUnit, NUnit & XUnit
+---------------------------------------------
+### 5. Assert Class
 
 ---------------------------------------------
-### 
+### 6. TDD vs DDT vs Unit testing
 
 ---------------------------------------------
-### 
+### 7. SONAR QUBE
+ 
+---------------------------------------------
+### 8. Code Coverage
 
 ---------------------------------------------
-### 
+### 9. Test Doubles - Moq/Mock, Dummy, Spy, Stub
 
 ---------------------------------------------
-### 
-
----------------------------------------------
-### 
-
----------------------------------------------
-### 
+### 9. How to test a controller functionality
 
 ---------------------------------------------
 ### 
