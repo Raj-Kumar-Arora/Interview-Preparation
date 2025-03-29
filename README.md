@@ -1,4 +1,8 @@
 # Interview Preparation
+-----------------------------------------
+* **MUST TODO** => - 10 hrs - MY UDEMY (Covers ASP.NET CORE, CLEAN CODE, TESTING & UI)- [ASP.NET Core - SOLID and Clean Architecture](https://www.udemy.com/course/aspnet-core-solid-and-clean-architecture-net-5-and-up) 
+-----------------------------------------
+
 
 [C#.NET](#C#.NET)
 
