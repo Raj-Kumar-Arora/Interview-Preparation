@@ -40,6 +40,7 @@
 * https://stackoverflow.com/questions/27981247/github-markdown-same-page-link/45508928#45508928
 * for txt colors  https://github.com/orgs/community/discussions/31570
 * https://retype.com/components/code-block/
+* https://www.freecodecamp.org/news/how-to-create-notice-blocks-in-markdown/
       
 -------------------------------------------------------------------------------------
 ## C#.NET
