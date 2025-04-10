@@ -1,0 +1,70 @@
+## PRACTICAL topics - ASP.NET/EF
+Ref - https://www.linkedin.com/feed/update/urn:li:activity:7312721633197117440?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7312721633197117440%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+![image](https://github.com/user-attachments/assets/af99c5c3-d867-4269-be33-30851c25773f)
+
+------------------------------------------------------
+## DSA - 1 - 35 Q's
+Ref - https://www.linkedin.com/feed/update/urn:li:activity:7312825140042436608?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7312825140042436608%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+Topics - Arrays, Strings, L/List, Trees, Graphs, Searching/Sorting, DP
+
+------------------------------------------------------
+## DSA - 2 - 300 Problems - Ashish Pratap Singh
+
+https://algomaster.io/practice/dsa-patterns
+
+------------------------------------------------------
+## DSA - 3 - 12 Leetcode blogs
+
+– Backtracking Patterns: https://lnkd.in/g9csxVa4
+
+–Sliding Window patterns: https://lnkd.in/gjatQ5pK
+
+–Sliding Windows on Strings Pattern: https://lnkd.in/gX8ebtnb
+
+–Two Pointers Patterns: https://lnkd.in/gBfWgHYe
+
+–Substring Problem Patterns: https://lnkd.in/gdGtE72g
+
+–Tree Patterns: https://lnkd.in/gKja_D5H
+
+–Tree Iterative Traversal: https://lnkd.in/gGpXjHt5
+
+–Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
+
+–Binary Search Patterns: https://lnkd.in/gKEm_qUK
+
+–Monotonic Stack Patterns: https://lnkd.in/gdYahWVN
+
+–Bit Manipulation Patterns: https://lnkd.in/gkxVZTXU
+
+–Graph Patterns: https://lnkd.in/gKE6w7Jb
+
+–DFS + BFS Patterns (1): https://lnkd.in/gPgpsgaQ
+
+–DFS + BFS Patterns (2): https://lnkd.in/gd4ekfQe
+
+Bonus (My resources): 
+
+Placement Roadmap: https://lnkd.in/et8pva2U
+
+40 Essential Coding Patterns: https://lnkd.in/ev6UHwcv
+
+------------------------------------------------------
+## ALL IN 1 - Q
+REF -> https://www.linkedin.com/feed/update/urn:li:activity:7283022245839474688?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7283022245839474688%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
+![image](https://github.com/user-attachments/assets/b16d668e-beeb-4bde-a6bb-c10d9e260e5e)
+
+------------------------------------------------------
+## ASP.NET
+https://www.linkedin.com/posts/activity-7282374814131003392-QgUO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIh2k0BHRexgcUGG3vfuFnxcH1BNFg9ttU
+
+![image](https://github.com/user-attachments/assets/5ec8015e-3755-4747-9c7a-ff88861fd97a)
+![1736233234510](https://github.com/user-attachments/assets/40201bb8-5893-495f-926a-3afab659d43f)
+
+------------------------------------------------------
+## DevOps - Deployment
+
+![image](https://github.com/user-attachments/assets/4f7b1b05-dd90-43f9-bd60-16a3a40ebfe7)
