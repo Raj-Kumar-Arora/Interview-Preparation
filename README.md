@@ -34,7 +34,7 @@
 
 
 *GitHub HELP on Anchors/Markdown :- *
-FOR HOW TO ADD NAVIGATION SUBLINKS which are not working for this github, refer how its created in https://blog.algomaster.io/p/15-leetcode-patterns 
+* **FOR HOW TO ADD NAVIGATION SUBLINKS which are not working for this github, refer how its created in** https://blog.algomaster.io/p/15-leetcode-patterns 
 
 * https://stackoverflow.com/questions/76402528/github-how-to-add-links-to-sections-of-readme-md
 * https://gist.github.com/rachelhyman/b1f109155c9dafffe618#file-gistfile1-md
